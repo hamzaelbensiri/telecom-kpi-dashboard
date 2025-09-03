@@ -7,6 +7,9 @@ It includes anomaly highlighting, **performance clustering**, EDA panels, and a 
 
 ---
 
+👉 **Live demo:** 
+[![Open in Streamlit](https://londonkpis.streamlit.app/)
+---
 ## ✨ Features
 
 - **Map views**
