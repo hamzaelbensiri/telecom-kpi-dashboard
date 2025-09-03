@@ -181,21 +181,21 @@ Pick a target per KPI and see:
 
 ---
 
-## 🖼️ Screenshots (add yours)
+## 🖼️ Screenshots 
 
-Create a `docs/img/` folder and add:
-- `map_clusters.png` — map with cluster legend
-- `eda_hist.png` — histogram
-- `targets.png` — targets panel
 
-Then reference them here:
+### Performance Clusters
+![Performance Clusters](docs/img/map_clusters.png)
 
-```markdown
-![Map — performance clusters](docs/img/map_clusters.png)
-![EDA — histogram](docs/img/eda_hist.png)
-![Targets & compliance](docs/img/targets.png)
-![Towers heatmap](docs/img/tower_heatmap.png)
-```
+### EDA — Histogram
+![EDA — Histogram](docs/img/eda_hist.png)
+
+### Targets & Compliance
+![Targets & Compliance](docs/img/targets.png)
+
+### Towers Heatmap
+![Towers Heatmap](docs/img/tower_heatmap.png)
+
 
 ---
 
